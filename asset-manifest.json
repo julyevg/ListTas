@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/julyevg.github.io/ListTas/static/css/main.f08283fb.chunk.css",
-    "main.js": "/julyevg.github.io/ListTas/static/js/main.f97d33c2.chunk.js",
-    "main.js.map": "/julyevg.github.io/ListTas/static/js/main.f97d33c2.chunk.js.map",
-    "runtime-main.js": "/julyevg.github.io/ListTas/static/js/runtime-main.b8fd68a7.js",
-    "runtime-main.js.map": "/julyevg.github.io/ListTas/static/js/runtime-main.b8fd68a7.js.map",
-    "static/js/2.e61d9612.chunk.js": "/julyevg.github.io/ListTas/static/js/2.e61d9612.chunk.js",
-    "static/js/2.e61d9612.chunk.js.map": "/julyevg.github.io/ListTas/static/js/2.e61d9612.chunk.js.map",
+    "main.js": "/julyevg.github.io/ListTas/static/js/main.ae1930d7.chunk.js",
+    "main.js.map": "/julyevg.github.io/ListTas/static/js/main.ae1930d7.chunk.js.map",
+    "runtime-main.js": "/julyevg.github.io/ListTas/static/js/runtime-main.f2bb9ab3.js",
+    "runtime-main.js.map": "/julyevg.github.io/ListTas/static/js/runtime-main.f2bb9ab3.js.map",
+    "static/js/2.f947235c.chunk.js": "/julyevg.github.io/ListTas/static/js/2.f947235c.chunk.js",
+    "static/js/2.f947235c.chunk.js.map": "/julyevg.github.io/ListTas/static/js/2.f947235c.chunk.js.map",
     "index.html": "/julyevg.github.io/ListTas/index.html",
     "static/css/main.f08283fb.chunk.css.map": "/julyevg.github.io/ListTas/static/css/main.f08283fb.chunk.css.map",
-    "static/js/2.e61d9612.chunk.js.LICENSE.txt": "/julyevg.github.io/ListTas/static/js/2.e61d9612.chunk.js.LICENSE.txt"
+    "static/js/2.f947235c.chunk.js.LICENSE.txt": "/julyevg.github.io/ListTas/static/js/2.f947235c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8fd68a7.js",
-    "static/js/2.e61d9612.chunk.js",
+    "static/js/runtime-main.f2bb9ab3.js",
+    "static/js/2.f947235c.chunk.js",
     "static/css/main.f08283fb.chunk.css",
-    "static/js/main.f97d33c2.chunk.js"
+    "static/js/main.ae1930d7.chunk.js"
   ]
 }
